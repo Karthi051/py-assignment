@@ -1,5 +1,8 @@
 # [29-9-26] python assignment
 
+## NAME:KARTHIKEYAN K
+## REG NO:212223230101
+
 ## 1.	Print all prime numbers between input range (Ex – input 20 50, prints all prime numbers between 20 and 50).
 
 ```
